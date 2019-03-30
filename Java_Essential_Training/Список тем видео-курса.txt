@@ -1,76 +1,85 @@
- 01. Welcome.mp4
- 02. Is this course for you.mp4
- 03. Using the exercise files.mp4
- 04. The history of Java.mp4
- 05. Principles and components of Java.mp4
- 06. Java syntax and compilation.mp4
- 07. Memory management and garbage collection.mp4
- 08. Choosing a development environment.mp4
- 09. Installing Java on Windows.mp4
- 10. Installing Java on OS X.mp4
- 11. Installing IntelliJ IDEA on Windows.mp4
- 12. Installing IntelliJ IDEA on OS X.mp4
- 13. Installing BlueJ.mp4
- 14. Hello World.mp4
- 15. Passing arguments to a console application.mp4
- 16. Organizing Java classes in packages.mp4
- 17. Creating a Java project in IntelliJ IDEA.mp4
- 18. Taking a tour of IntelliJ IDEA.mp4
- 19. Creating a Java project in BlueJ.mp4
- 20. Using the Java API documentation.mp4
- 21. Working with primitive variables.mp4
- 22. Declaring and initializing numeric primitives.mp4
- 23. Representing currency values with BigDecimal.mp4
- 24. Converting numeric values.mp4
- 25. Using mathematical operators and the Math class.mp4
- 26. Working with Boolean values and expressions.mp4
- 27. Working with character values.mp4
- 28. Using Java operators.mp4
- 29. Working with object data types.mp4
- 30. Using the String class.mp4
- 31. Converting primitive values to strings.mp4
- 32. Building a string from multiple values.mp4
- 33. Comparing string values.mp4
- 34. Formatting numeric values as strings.mp4
- 35. Parsing string values.mp4
- 36. Working with dates and times.mp4
- 37. Challenge Creating a simple calculator application.mp4
- 38. Solution Creating a simple calculator application.mp4
- 39. Understanding syntax errors vs. runtime exceptions.mp4
- 40. Debugging with IntelliJ IDEA.mp4
- 41. Handling exceptions with try catch.mp4
- 42. Creating multiple catch blocks.mp4
- 43. Throwing custom exceptions.mp4
- 44. Programming conditional logic.mp4
- 45. Using the switch statement.mp4
- 46. Creating looping code blocks.mp4
- 47. Creating reusable code with methods.mp4
- 48. Overloading methods with different signatures.mp4
- 49. Passing arguments by reference or by value.mp4
- 50. Challenge Creating a more complex calculator application.mp4
- 51. Solution Creating a more complex calculator application.mp4
- 52. Using simple arrays.mp4
- 53. Using two-dimensional arrays.mp4
- 54. Managing resizable arrays with ArrayList.mp4
- 55. Managing unordered data with HashMap.mp4
- 56. Looping through collections with iterators and for-each.mp4
- 57. Understanding encapsulation.mp4
- 58. Creating and instantiating custom classes.mp4
- 59. Creating nested and anonymous classes.mp4
- 60. Visualizing class relationships.mp4
- 61. Storing data in instance variables.mp4
- 62. Declaring instance and static methods.mp4
- 63. Using constructor methods.mp4
- 64. Using static variables as constants.mp4
- 65. Declaring and using enum types.mp4
- 66. Understanding inheritance and polymorphism.mp4
- 67. Extending classes and overriding methods.mp4
- 68. Creating and implementing interfaces.mp4
- 69. Using abstract classes and methods.mp4
- 70. Managing files with the original File class.mp4
- 71. Managing files with Java 7's new IO library.mp4
- 72. Managing files with Apache Commons FileUtils.mp4
- 73. Reading a text file over the Internet.mp4
- 74. Documenting code with Javadoc.mp4
- 75. Packaging classes in JAR files.mp4
- 76. Next steps.mp4
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Список роликов.</title>
+ </head>
+<body>
+<a href="https://vk.com/video39817202_456239018">01. Welcome.mp4</a>
+<a href="https://vk.com/video39817202_456239019">02. Is this course for you.mp4</a>
+<a href="https://vk.com/video39817202_456239020">03. Using the exercise files.mp4</a>
+<a href="https://vk.com/video39817202_456239021">04. The history of Java.mp4</a>
+<a href="https://vk.com/video39817202_456239022">05. Principles and components of Java.mp4</a>
+<a href="https://vk.com/video39817202_456239023">06. Java syntax and compilation.mp4</a>
+<a href="https://vk.com/video39817202_456239024">07. Memory management and garbage collection.mp4</a>
+<a href="https://vk.com/video39817202_456239025">08. Choosing a development environment.mp4</a>
+<a href="https://vk.com/video39817202_456239026">09. Installing Java on Windows.mp4</a>
+<a href="https://vk.com/video39817202_456239027">10. Installing Java on OS X.mp4</a>
+<a href="https://vk.com/video39817202_456239028">11. Installing IntelliJ IDEA on Windows.mp4</a>
+<a href="https://vk.com/video39817202_456239029">12. Installing IntelliJ IDEA on OS X.mp4</a>
+<a href="https://vk.com/video39817202_456239030">13. Installing BlueJ.mp4</a>
+<a href="https://vk.com/video39817202_456239031">14. Hello World.mp4</a>
+<a href="https://vk.com/video39817202_456239032">15. Passing arguments to a console application.mp4</a>
+<a href="https://vk.com/video39817202_456239033">16. Organizing Java classes in packages.mp4</a>
+<a href="https://vk.com/video39817202_456239034">17. Creating a Java project in IntelliJ IDEA.mp4</a>
+<a href="https://vk.com/video39817202_456239035">18. Taking a tour of IntelliJ IDEA.mp4</a>
+<a href="https://vk.com/video39817202_456239036">19. Creating a Java project in BlueJ.mp4</a>
+<a href="https://vk.com/video39817202_456239037">20. Using the Java API documentation.mp4</a>
+<a href="https://vk.com/video39817202_456239038">21. Working with primitive variables.mp4</a>
+<a href="https://vk.com/video39817202_456239039">22. Declaring and initializing numeric primitives.mp4</a>
+<a href="https://vk.com/video39817202_456239040">23. Representing currency values with BigDecimal.mp4</a>
+<a href="https://vk.com/video39817202_456239041">24. Converting numeric values.mp4</a>
+<a href="https://vk.com/video39817202_456239042">25. Using mathematical operators and the Math class.mp4</a>
+<a href="https://vk.com/video39817202_456239043">26. Working with Boolean values and expressions.mp4</a>
+<a href="https://vk.com/video39817202_456239044">27. Working with character values.mp4</a>
+<a href="https://vk.com/video39817202_456239045">28. Using Java operators.mp4</a>
+<a href="https://vk.com/video39817202_456239046">29. Working with object data types.mp4</a>
+<a href="https://vk.com/video39817202_456239047">30. Using the String class.mp4</a>
+<a href="https://vk.com/video39817202_456239048">31. Converting primitive values to strings.mp4</a>
+<a href="https://vk.com/video39817202_456239049">32. Building a string from multiple values.mp4</a>
+<a href="https://vk.com/video39817202_456239050">33. Comparing string values.mp4</a>
+<a href="https://vk.com/video39817202_456239051">34. Formatting numeric values as strings.mp4</a>
+<a href="https://vk.com/video39817202_456239052">35. Parsing string values.mp4</a>
+<a href="https://vk.com/video39817202_456239053">36. Working with dates and times.mp4</a>
+<a href="https://vk.com/video39817202_456239054">37. Challenge Creating a simple calculator application.mp4</a>
+<a href="https://vk.com/video39817202_456239055">38. Solution Creating a simple calculator application.mp4</a>
+<a href="https://vk.com/video39817202_456239056">39. Understanding syntax errors vs. runtime exceptions.mp4</a>
+<a href="https://vk.com/video39817202_456239057">40. Debugging with IntelliJ IDEA.mp4</a>
+<a href="https://vk.com/video39817202_456239058">41. Handling exceptions with try catch.mp4</a>
+<a href="https://vk.com/video39817202_456239059">42. Creating multiple catch blocks.mp4</a>
+<a href="https://vk.com/video39817202_456239060">43. Throwing custom exceptions.mp4</a>
+<a href="https://vk.com/video39817202_456239061">44. Programming conditional logic.mp4</a>
+<a href="https://vk.com/video39817202_456239062">45. Using the switch statement.mp4</a>
+<a href="https://vk.com/video39817202_456239063">46. Creating looping code blocks.mp4</a>
+<a href="https://vk.com/video39817202_456239064">47. Creating reusable code with methods.mp4</a>
+<a href="https://vk.com/video39817202_456239065">48. Overloading methods with different signatures.mp4</a>
+<a href="https://vk.com/video39817202_456239066">49. Passing arguments by reference or by value.mp4</a>
+<a href="https://vk.com/video39817202_456239067">50. Challenge Creating a more complex calculator application.mp4</a>
+<a href="https://vk.com/video39817202_456239068">51. Solution Creating a more complex calculator application.mp4</a>
+<a href="https://vk.com/video39817202_456239069">52. Using simple arrays.mp4</a>
+<a href="https://vk.com/video39817202_456239070">53. Using two-dimensional arrays.mp4</a>
+<a href="https://vk.com/video39817202_456239071">54. Managing resizable arrays with ArrayList.mp4</a>
+<a href="https://vk.com/video39817202_456239072">55. Managing unordered data with HashMap.mp4</a>
+<a href="https://vk.com/video39817202_456239073">56. Looping through collections with iterators and for-each.mp4</a>
+<a href="https://vk.com/video39817202_456239074">57. Understanding encapsulation.mp4</a>
+<a href="https://vk.com/video39817202_456239075">58. Creating and instantiating custom classes.mp4</a>
+<a href="https://vk.com/video39817202_456239076">59. Creating nested and anonymous classes.mp4</a>
+<a href="https://vk.com/video39817202_456239077">60. Visualizing class relationships.mp4</a>
+<a href="https://vk.com/video39817202_456239077">61. Storing data in instance variables.mp4</a>
+<a href="https://vk.com/video39817202_456239078">62. Declaring instance and static methods.mp4</a>
+<a href="https://vk.com/video39817202_456239079">63. Using constructor methods.mp4</a>
+<a href="https://vk.com/video39817202_456239080">64. Using static variables as constants.mp4</a>
+<a href="https://vk.com/video39817202_456239081">65. Declaring and using enum types.mp4</a>
+<a href="https://vk.com/video39817202_456239082">66. Understanding inheritance and polymorphism.mp4</a>
+<a href="https://vk.com/video39817202_456239083">67. Extending classes and overriding methods.mp4</a>
+<a href="https://vk.com/video39817202_456239084">68. Creating and implementing interfaces.mp4</a>
+<a href="https://vk.com/video39817202_456239085">69. Using abstract classes and methods.mp4</a>
+<a href="https://vk.com/video39817202_456239086">70. Managing files with the original File class.mp4</a>
+<a href="https://vk.com/video39817202_456239087">71. Managing files with Java 7's new IO library.mp4</a>
+<a href="https://vk.com/video39817202_456239088">72. Managing files with Apache Commons FileUtils.mp4</a>
+<a href="https://vk.com/video39817202_456239089">73. Reading a text file over the Internet.mp4</a>
+<a href="https://vk.com/video39817202_456239090">74. Documenting code with Javadoc.mp4</a>
+<a href="https://vk.com/video39817202_456239091">75. Packaging classes in JAR files.mp4</a>
+<a href="https://vk.com/video39817202_456239092">76. Next steps.mp4</a>
+ 
+ </body>
+</html>
